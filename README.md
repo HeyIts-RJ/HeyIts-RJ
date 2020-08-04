@@ -1,5 +1,8 @@
 <h2>नमस्ते (Namaste)🙏🏻</h2>
-![GitHub followers](https://img.shields.io/github/followers/HeyIts-RJ?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/Hey_its_RJain) ![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
+
+![GitHub followers](https://img.shields.io/github/followers/HeyIts-RJ?label=Follow&style=social) 
+![Twitter Follow](https://img.shields.io/twitter/follow/Hey_its_RJain) ![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
+
 ### I'm Rishabh Jain
 <img align='right' src="https://mariosfive.com/wp-content/uploads/2020/04/18123-developer.gif" width="230">
  I am from New Delhi and currently pursuing my B.Tech in Software Engineering 🏫. I love to explore and learn about new things.
@@ -32,10 +35,6 @@
 ##### 🔭 Some of my favorite open source projects
 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/) [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
-------------
-
-
 
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=HeyIts-RJ&show_icons=true&hide_border=true)
 
