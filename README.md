@@ -7,7 +7,8 @@
 <img align='right' src="https://mariosfive.com/wp-content/uploads/2020/04/18123-developer.gif" width="230">
  I am from New Delhi and currently pursuing my B.Tech in Software Engineering 🏫. I love to explore and learn about new things.
  
- **Talking about Personal Stuffs:**
+ 
+#### Talking about Personal Stuffs
 
 - 🛠 Currently working with Java, Javascript, Firebase 🔥 and Python 🐍.
 - 👨🏻‍💻 I’m looking to collaborate and work on kick ass projects.
