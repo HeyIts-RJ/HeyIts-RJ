@@ -1,11 +1,11 @@
 <h2>नमस्ते (Namaste)🙏🏻</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/HeyIts-RJ?label=Follow&style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/Hey_its_RJain) ![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
+![Twitter Follow](https://img.shields.io/twitter/follow/Hey_its_RJain) ![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
 
 ### I'm Rishabh Jain
 <img align='right' src="https://mariosfive.com/wp-content/uploads/2020/04/18123-developer.gif" width="230">
- I am from New Delhi and currently pursuing my B.Tech in Software Engineering 🏫. I love to explore and learn about new things.
+ I am from New Delhi and currently pursuing my B.Tech in Software Engineering 🏫. I worked on projects across multiple domains and deployed to production. I love to explore and learn about new things.
  
  
 #### Talking about Personal Stuffs
