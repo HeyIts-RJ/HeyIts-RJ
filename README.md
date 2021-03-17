@@ -36,13 +36,3 @@
 ##### 🔭 Some of my favorite open source projects
 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/) [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
-![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=HeyIts-RJ&show_icons=true&hide_border=true)
-
-##### ⚡ Fun fact: I once solved the world's oldest question with a single line of JavaScript 🤪
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
