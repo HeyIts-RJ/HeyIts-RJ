@@ -1,10 +1,11 @@
 <h2>नमस्ते (Namaste)🙏🏻</h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/HeyIts-RJ?label=Follow&style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/Hey_its_RJain) ![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
+![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
 
 ### I'm Rishabh Jain
- I am from New Delhi and currently as Android Engineer (SDE) in Clapingo. I worked on projects across multiple domains and deployed to production. I love to explore and learn about new things and technology trends.
+🔭 I’m pursing Master's from Northeastern University, Boston.
+🌱 I’m interested in roles related to Data Engineering and Machine Learning Engineering.
  
  
 #### Talking about Personal Stuffs
