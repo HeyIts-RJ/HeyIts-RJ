@@ -4,9 +4,7 @@
 ![Rishabh's Views](https://komarev.com/ghpvc/?username=HeyIts-RJ) [![Gmail](https://img.shields.io/badge/-GMail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishab1300@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-rishab/)
 
 ### I'm Rishabh Jain
-🔭 I’m pursing Master's from Northeastern University, Boston.
-🌱 I’m interested in roles related to Data Engineering and Machine Learning Engineering.
- 
+Android Engineer @ [Chewy](https://www.chewy.com/)
  
 #### Talking about Personal Stuffs
 
